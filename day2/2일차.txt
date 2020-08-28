@@ -1,0 +1,18 @@
+2일차
+SQL문의 유형 3가지
+DDL(Database Definition Language)
+	데이터베이스 정의어 
+	생성(create), 수정(alter),제거 (drop)와 관련된 명령어
+DML(Data manipulation Language)
+	생성된 테이블에 데이터를 넣고(insert), 수정하고(update), 삭제하는(delete) 명령어
+	데이터 조작어
+DCL(Database Control Language)
+	데이터베이스 제어어
+	주로 사용자에 대한 권한을 부여(grant),뺏을때(revoke)사용
+
+SQLPlus 에는 사용자가 콘솔화면 자체를 캡쳐해주는 기능이 있다. 
+spool '기록할파일명'
+spool off
+-----------------------------------------------------------------------
+HTML의 디자인적 한계를 극복하기 위해 나온 기술 
+stylesheet  CSS
